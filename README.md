@@ -76,7 +76,7 @@ The dashboard provides a complete view of company sales across regions, years, c
 
 ## Purpose of This Portfolio Project
 
-- This project highlights my practical ability to:
+This project highlights my practical ability to:
 
 - Build business-ready dashboards
 
